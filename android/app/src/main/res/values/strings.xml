@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Titan Plaza</string>
+    <string name="facebook_app_id">300038068796386</string>
+    <string name="default_notification_channel_id">default_notification_channel_id</string>
+</resources>

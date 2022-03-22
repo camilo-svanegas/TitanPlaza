@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "495590716244",
+    "project_id": "titan-plaza-f39db",
+    "storage_bucket": "titan-plaza-f39db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495590716244:android:fc8bc90e311edec68a8ec1",
+        "android_client_info": {
+          "package_name": "com.codelabs.centrocomercialtitanplaza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495590716244-0ah6hcpecml320f0iblokee245tjji1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codelabs.centrocomercialtitanplaza",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "495590716244-12qq796iv7f68p6bsajbb3fkm7snavk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfNcz1l87P0kfvwB62kMtKm6xZSAqb_Fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495590716244-12qq796iv7f68p6bsajbb3fkm7snavk5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "495590716244-iev9on7qfujk1crsvq94cl45ral84id1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codelabs.centrocomercialtitanplaza",
+                "app_store_id": "1534780981"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
